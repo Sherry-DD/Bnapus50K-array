@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<product_definition>
+  <part_number>15069608X360236</part_number>
+  <revision>A</revision>
+  <product_name>Bnapus_190327</product_name>
+  <product_line>Infinium HD Ultra</product_line>
+  <sentrix_format>
+    <type>Slide</type>
+    <substrate_part_number>208602</substrate_part_number>
+  </sentrix_format>
+  <product_specific_data>
+    <bundleIndex>
+      <string>R01C01_1</string>
+      <string>R01C01_2</string>
+      <string>R01C02_1</string>
+      <string>R01C02_2</string>
+      <string>R02C01_1</string>
+      <string>R02C01_2</string>
+      <string>R02C02_1</string>
+      <string>R02C02_2</string>
+      <string>R03C01_1</string>
+      <string>R03C01_2</string>
+      <string>R03C02_1</string>
+      <string>R03C02_2</string>
+      <string>R04C01_1</string>
+      <string>R04C01_2</string>
+      <string>R04C02_1</string>
+      <string>R04C02_2</string>
+      <string>R05C01_1</string>
+      <string>R05C01_2</string>
+      <string>R05C02_1</string>
+      <string>R05C02_2</string>
+      <string>R06C01_1</string>
+      <string>R06C01_2</string>
+      <string>R06C02_1</string>
+      <string>R06C02_2</string>
+      <string>R07C01_1</string>
+      <string>R07C01_2</string>
+      <string>R07C02_1</string>
+      <string>R07C02_2</string>
+      <string>R08C01_1</string>
+      <string>R08C01_2</string>
+      <string>R08C02_1</string>
+      <string>R08C02_2</string>
+      <string>R09C01_1</string>
+      <string>R09C01_2</string>
+      <string>R09C02_1</string>
+      <string>R09C02_2</string>
+      <string>R10C01_1</string>
+      <string>R10C01_2</string>
+      <string>R10C02_1</string>
+      <string>R10C02_2</string>
+      <string>R11C01_1</string>
+      <string>R11C01_2</string>
+      <string>R11C02_1</string>
+      <string>R11C02_2</string>
+      <string>R12C01_1</string>
+      <string>R12C01_2</string>
+      <string>R12C02_1</string>
+      <string>R12C02_2</string>
+    </bundleIndex>
+  </product_specific_data>
+</product_definition>
+
